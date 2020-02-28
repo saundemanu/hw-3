@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-02-28T14:03:56.235-08:00
+  initializedAtString: 2020-02-28T14:00:04.423-08:00
+  log:
+  - commitID: 79a0bc1992eba6b3f80bf8d20df58b19e73eafb8
+    mergeA: 
+    mergeB: 
+    authorName: andrewcopas
+    authorEmail: andacrews@gmail.com
+    commitEmail: andacrews@gmail.com
+    commitName: andrewcopas
+    summary: Revert "first commit"
+    description: This reverts commit a76ebe3781beb7e6977f7b29d5f4616ffe4408fd.
+    timeString: 2020-02-28T13:57:49.000-08:00
+    commitTimeString: 2020-02-28T13:57:49.000-08:00
+    changes:
+    - path: README.md
+      fullPath: /Users/andrewcopas/Documents/hw-3/hw-3/README.md
+      projectPath: README.md
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: a76ebe3781beb7e6977f7b29d5f4616ffe4408fd
+    mergeA: 
+    mergeB: 
+    authorName: andrewcopas
+    authorEmail: andacrews@gmail.com
+    commitEmail: andacrews@gmail.com
+    commitName: andrewcopas
+    summary: first commit
+    description: 
+    timeString: 2020-02-28T11:41:34.000-08:00
+    commitTimeString: 2020-02-28T11:41:34.000-08:00
+    changes:
+    - path: README.md
+      fullPath: /Users/andrewcopas/Documents/hw-3/hw-3/README.md
+      projectPath: README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
