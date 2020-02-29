@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/newScene.unity
+- path: Assets/Camera Controller Scene.unity
   isLoaded: 1
   isActive: 1
